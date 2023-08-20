@@ -242,7 +242,7 @@ class _ScientificCalculatorState extends State<ScientificCalculator> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Calculator'),
+        title: Text('Scientific Calculator'),
         centerTitle: true,
         elevation: 0.0,
       ),
